@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -7,12 +8,48 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="wrap_content"
+        android:id="@+id/quiz"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:text="QUIZ"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="50sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.120" />
+
+    <Button
+        android:id="@+id/btnjouer"
+        android:layout_margin="@android:dimen/app_icon_size"
+        android:layout_height="100dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/btnswag"
+        android:text="Jouer"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/purple_200"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@id/quiz"
+        app:layout_constraintVertical_bias="0.400" />
+
+    <Button
+        android:id="@+id/btnparam"
+        android:layout_margin="@android:dimen/app_icon_size"
+        android:layout_height="100dp"
+        android:layout_width="match_parent"
+        android:backgroundTint="@color/black"
+        android:text="Parameters"
+        android:textColor="@color/purple_200"
+        android:textSize="30dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="@id/btnjouer"
+        app:layout_constraintVertical_bias="0.600" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
