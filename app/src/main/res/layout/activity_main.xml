@@ -26,7 +26,6 @@
         android:layout_margin="@android:dimen/app_icon_size"
         android:layout_height="100dp"
         android:layout_width="match_parent"
-        android:background="@drawable/btnswag"
         android:text="Jouer"
         android:textColor="@color/black"
         android:backgroundTint="@color/purple_200"
