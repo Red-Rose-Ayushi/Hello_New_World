@@ -1,4 +1,13 @@
 <resources>
-    <string name="app_name">Hello World</string>
-    <string name="Langue">Langue</string>
+    <string name="app_name">The Funny Quiz</string>
+    <string name="quiz">QUIZ</string>
+    <string name="edit_message">Type a message</string>
+    <string name="button_send">Send</string>
+    <string name="play">Play</string>
+    <string name="parameters">Parameters</string>
+    <string name="user">User</string>
+    <string name="theme">Theme</string>
+    <string name="language">Language</string>
+    <string name="universe">Universe</string>
+    <string name="difficulty">Difficulty</string>
 </resources>

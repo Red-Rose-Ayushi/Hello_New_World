@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Hello World</string>
+    <string name="app_name">Le Quizz Marrant</string>
+    <string name="Langue">Langue</string>
+    <string name="quiz">QUIZ</string>
     <string name="edit_message">Saisissez un message</string>
     <string name="button_send">Envoyer</string>
+    <string name="play">Jouer</string>
+    <string name="parameters">Paramètres</string>
+    <string name="user">Utilisateur</string>
+    <string name="theme">Thème</string>
+    <string name="language">Langue</string>
+    <string name="universe">Univer</string>
+    <string name="difficulty">Difficulté</string>
 </resources>

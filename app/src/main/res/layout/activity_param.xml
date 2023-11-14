@@ -20,7 +20,7 @@
         android:layout_marginEnd="80dp"
         android:layout_marginRight="80dp"
         android:layout_marginBottom="80dp"
-        android:hint="Langue"
+        android:hint="@string/language"
         app:boxStrokeColor="@color/purple_200"
         app:endIconTint="@color/purple_200">
 
@@ -44,7 +44,7 @@
         android:layout_marginEnd="80dp"
         android:layout_marginRight="80dp"
         android:layout_marginBottom="80dp"
-        android:hint="Thème"
+        android:hint="@string/theme"
         app:boxStrokeColor="@color/purple_200"
         app:endIconTint="@color/purple_200">
 
@@ -68,7 +68,7 @@
         android:layout_marginEnd="80dp"
         android:layout_marginRight="80dp"
         android:layout_marginBottom="80dp"
-        android:hint="Utilisateur"
+        android:hint="@string/user"
         app:boxStrokeColor="@color/purple_200"
         app:endIconTint="@color/purple_200">
 
@@ -92,7 +92,7 @@
         android:layout_marginEnd="80dp"
         android:layout_marginRight="80dp"
         android:layout_marginBottom="80dp"
-        android:hint="Univer"
+        android:hint="@string/universe"
         app:boxStrokeColor="@color/purple_200"
         app:endIconTint="@color/purple_200">
 
@@ -116,7 +116,7 @@
         android:layout_marginEnd="80dp"
         android:layout_marginRight="80dp"
         android:layout_marginBottom="80dp"
-        android:hint="Difficulté"
+        android:hint="@string/difficulty"
         app:boxStrokeColor="@color/purple_200"
         app:endIconTint="@color/purple_200">
 
