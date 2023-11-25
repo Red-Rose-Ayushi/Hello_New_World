@@ -24,7 +24,7 @@ public class ActivityJouer extends AppCompatActivity implements View.OnClickList
     int questions_restantes = QuestionAnswer.question.length;
     String selectedAnswer = "";
     String dificulty = "normal";
-    String langue = "en";
+    String langue = "fr";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

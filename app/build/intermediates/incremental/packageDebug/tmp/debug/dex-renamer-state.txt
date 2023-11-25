@@ -1,0 +1,4 @@
+#Sat Nov 25 14:32:50 CET 2023
+base.0=C\:\\Cours\\ESIEE\\cours\\E4\\Hello_New_World\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

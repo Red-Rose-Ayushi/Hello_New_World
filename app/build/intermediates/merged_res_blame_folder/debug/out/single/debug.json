@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-pngs-0:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\layout_activity_jouer.xml.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\layout\\activity_jouer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-pngs-0:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-pngs-0:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\drawable_btnswag.xml.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\drawable\\btnswag.xml"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-pngs-0:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\layout_activity_play.xml.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\layout\\activity_play.xml"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-pngs-0:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\layout_dropdown.xml.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\layout\\dropdown.xml"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-pngs-0:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\layout_activity_param.xml.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\layout\\activity_param.xml"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-pngs-0:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Léo\\.gradle\\daemon\\8.0\\com.example.helloworld.app-main-6:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.helloworld.app-merged_res-4:/layout_activity_jouer.xml.flat",
+        "source": "com.example.helloworld.app-main-6:/layout/activity_jouer.xml"
+    }
+]
