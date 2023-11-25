@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.os.Bundle;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity{
 
     //ATTRIBUTS
     private Button btnjouer;
